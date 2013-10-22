@@ -1,5 +1,5 @@
 //
-//  MASViewController.h
+//  MASTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Mark Stuver on 10/21/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MASViewController : UIViewController
+@interface MASTableViewController : UITableViewController
 
 @end
